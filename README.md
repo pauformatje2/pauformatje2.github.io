@@ -2,7 +2,7 @@ README
 
 Project Analysis
 
-User Profile
+##User Profile
 
 The target user for this portfolio website is a potential employer, recruiter, or collaborator interested in understanding the skills, education, and experience of a Computer Science student. The user persona can be described as:
 
@@ -14,7 +14,7 @@ Goals: To quickly assess the candidate's technical skills, educational backgroun
 
 Behaviors: Spends only a few minutes per candidate profile and prefers a clear, visually appealing, and well-organized layout that makes information easily accessible.
 
-Information Architecture
+##Information Architecture
 
 The website is structured as a single-page application with smooth scrolling between sections for seamless navigation. The main sections are:
 
@@ -28,7 +28,7 @@ Contact: Concludes the page with an invitation to connect, providing a clear and
 
 Each section is designed to occupy the full viewport height, ensuring focused attention on one topic at a time. Smooth scrolling and fixed navigation allow users to transition effortlessly between sections.
 
-Visual Design
+##Visual Design
 
 The visual design emphasizes clarity and professionalism. The main color theme is a soft beige (#FFF8DC), chosen for its warmth and inviting nature, paired with darker beige tones for subtle contrast. Text is presented in a dark gray color (#4A4A4A) for optimal readability.
 
@@ -38,4 +38,6 @@ Typography is clean and sans-serif, ensuring modernity and readability. Ample wh
 
 The overall layout draws inspiration from modern design principles, with symmetrical sections and smooth scrolling transitions adding a polished touch. This cohesive design makes the website both functional and visually appealing for its target audience.
 
+##Link to figma
+https://www.figma.com/design/NL5pNcXu605EvAHmLqYCWT/CV?t=q0qqRQwYkRfiyCwQ-1
 
