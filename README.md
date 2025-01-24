@@ -4,15 +4,7 @@ Project Analysis
 
 ##User Profile
 
-The target user for this portfolio website is a potential employer, recruiter, or collaborator interested in understanding the skills, education, and experience of a Computer Science student. The user persona can be described as:
-
-Name: Alex Recruiter
-
-Role: Hiring manager or project collaborator
-
-Goals: To quickly assess the candidate's technical skills, educational background, and relevant experience.
-
-Behaviors: Spends only a few minutes per candidate profile and prefers a clear, visually appealing, and well-organized layout that makes information easily accessible.
+The target user for this portfolio website is a potential employer, recruiter, or collaborator interested in understanding the skills, education, and experience of a Computer Science student. My objective is to make it quick for the recruiters and users to assess my technical skills, educational background, and relevant experience. 
 
 ##Information Architecture
 
