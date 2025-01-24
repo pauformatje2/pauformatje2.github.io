@@ -41,3 +41,6 @@ The overall layout draws inspiration from modern design principles, with symmetr
 ##Link to figma
 https://www.figma.com/design/NL5pNcXu605EvAHmLqYCWT/CV?t=q0qqRQwYkRfiyCwQ-1
 
+##Link to page
+https://pauformatje2.github.io/
+
